@@ -1,0 +1,9 @@
+target/DiscordBot-1.0-shaded.jar
+target/DiscordBot-1.0.jar
+target/original-DiscordBot-1.0.jar
+target/classes/program/LouisClass.class
+target/classes/program/Main.class
+target/classes/program/MsgListener.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
